@@ -1,0 +1,1 @@
+# SPICE-MATLAB-Interfrace-for-Electrical-Impedance-Tomography-Simulation-SPICEIT-
