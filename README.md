@@ -9,3 +9,5 @@ To create an RLC-equivalent model, use the Set_Thorax.mat function.
 
 Raw measurement data will be available online soon. 
 Please make sure that any data follows the name documentation/pattern defined in the code, so it can be loaded. 
+
+The NETGEN software and EIDORS library are required. 
